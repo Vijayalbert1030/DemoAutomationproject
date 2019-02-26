@@ -1,0 +1,10 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#encodedtxt, #decodedtxt {
+    -fx-border-color: #1c1c1c;
+    -fx-border-style: solid;
+    -fx-border-radius: 1px;
+    -fx-text-fill: #888;
+    -fx-background-color: #dcdcdc;
+    -fx-accent: red ;
+}
